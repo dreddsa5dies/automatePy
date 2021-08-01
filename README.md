@@ -1,7 +1,5 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)  
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/GDNsM0F)
-
 ## The code contains comments in Russian
 
 ## License
